@@ -1,7 +1,7 @@
 name: Adrian Cosma
 headline: AI researcher working on language models, tokenization, multilingual generalization, and interpretable systems.
 location: Lugano, Switzerland
-availability: Open to research scientist and applied AI research roles in Zurich.
+availability: TODO.
 email: cosma.i.adrian@gmail.com
 scholar_url: https://scholar.google.com/citations?user=cdYk_RUAAAAJ&hl=en
 github_url: https://github.com/cosmaadrian
@@ -10,8 +10,7 @@ github_username: cosmaadrian
 research_statement: >
   I treat research as a form of design: a search for structure, compression, and
   meaning. My work spans language models, multilinguality, tokenization,
-  evaluation, and interpretable systems, with a bias toward ideas that are both
-  intellectually sharp and operationally useful.
+  evaluation, and interpretable systems. 
 focus:
   - Language models and tokenization
   - Multilingual reasoning and transfer

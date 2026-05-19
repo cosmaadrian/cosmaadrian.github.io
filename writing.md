@@ -6,8 +6,7 @@ title: Writing
   <p class="eyebrow">Writing</p>
   <h1>Notes, essays, and future posts.</h1>
   <p>
-    This section is ready for longer-form writing on research, evaluation,
-    multilinguality, and the aesthetics of good scientific work.
+    TODO
   </p>
 </section>
 
@@ -23,6 +22,6 @@ title: Writing
 {% else %}
   <section class="text-card">
     <h2>Nothing published here yet.</h2>
-    <p>The layout is in place, so future essays can drop in without any redesign work.</p>
+    <p>TODO.</p>
   </section>
 {% endif %}

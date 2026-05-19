@@ -4,11 +4,9 @@ title: Projects
 
 <section class="page-intro">
   <p class="eyebrow">Projects</p>
-  <h1>Codebases that carry the research.</h1>
+  <h1>TODO.</h1>
   <p>
-    I care about research artifacts that are legible, reusable, and worth building
-    on. These repositories span benchmarks, datasets, and model-centric
-    experimentation.
+    TODO
   </p>
 </section>
 

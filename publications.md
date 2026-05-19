@@ -4,15 +4,12 @@ title: Publications
 
 <section class="page-intro">
   <p class="eyebrow">Publications</p>
-  <h1>Bibliography driven, citation aware.</h1>
+  <h1>TODO.</h1>
   <p>
-    This page is generated from a curated bibliography you can maintain directly.
-    Citation badges refresh live from public scholarly metadata, and each paper
-    links back to a Google Scholar search for fast verification.
+    TODO
   </p>
   <p>
-    Scholar links point to Google Scholar. The live counters use public API data
-    because Google Scholar does not expose a stable client-side API for static sites.
+    TODO
   </p>
   <div class="meta-row">
     <span class="meta-chip">{{ site.data.publications | size }} listed publications</span>

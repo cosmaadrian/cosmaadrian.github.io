@@ -4,8 +4,8 @@ title: Home
 
 <section class="hero-card">
   <div class="hero-copy">
-    <p class="eyebrow">AI research | multilinguality | tokenization | evaluation</p>
-    <h1>Research that values structure, taste, and real understanding.</h1>
+    <p class="eyebrow">TODO | TODO | TODO</p>
+    <h1>TODO.</h1>
     <p class="hero-summary">{{ site.data.profile.headline }}</p>
     <p class="hero-summary">{{ site.data.profile.research_statement }}</p>
     <div class="cta-row">
@@ -36,7 +36,7 @@ title: Home
     </div>
     <div class="portrait-caption">
       <span>{{ site.data.profile.location }}</span>
-      <span>Research as craft, not noise.</span>
+      <span>TODO.</span>
     </div>
   </div>
 </section>
@@ -48,16 +48,8 @@ title: Home
   </div>
   <div class="manifesto-grid">
     <article class="text-card">
-      <h3>Rigorous questions</h3>
-      <p>I like problems where the benchmark is not enough and the real challenge is to identify the latent structure that explains performance.</p>
-    </article>
-    <article class="text-card">
-      <h3>Clean abstractions</h3>
-      <p>I gravitate toward research that produces reusable tools, better evaluations, and sharper conceptual vocabulary rather than isolated wins.</p>
-    </article>
-    <article class="text-card">
-      <h3>Useful taste</h3>
-      <p>I care about elegance, but not decorative elegance. The goal is work that feels inevitable in hindsight because it compresses complexity well.</p>
+      <h3>TODO</h3>
+      <p>TODO.</p>
     </article>
   </div>
 </section>
