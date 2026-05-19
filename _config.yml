@@ -1,0 +1,14 @@
+# _config.yml
+
+title: "Adrian Cosma"
+description: "AI researcher working on language models, multilinguality, tokenization, and interpretable systems."
+theme: jekyll-theme-minimal
+
+author:
+  name: "Adrian Cosma"
+  email: "cosma.i.adrian@gmail.com"
+
+show_downloads: false
+
+plugins:
+  - jekyll-seo-tag
