@@ -166,7 +166,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-
 # End of https://www.gitignore.io/api/node,sublimetext,windows,macos,sass
 
-# dist/
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/

@@ -1,0 +1,132 @@
+- title: "The Strawberry Problem: Emergence of Character-level Understanding in Tokenized Language Models"
+  authors: "Adrian Cosma, Stefan Ruseti, Emilian Radoi, Mihai Dascalu"
+  venue: "EMNLP 2025"
+  year: 2025
+  type: Conference
+  github_repo: cosmaadrian/strawberry-problem
+  featured: true
+
+- title: "Humanity's Last Exam"
+  authors: "Long Phan, Alice Gatti, Ziwen Han, Nathaniel Li, Josephina Hu, Hugh Zhang, Chen Bo Calvin Zhang, Mohamed Shaaban, John Ling, Sean Shi, and others"
+  venue: "arXiv preprint arXiv:2501.14249"
+  year: 2025
+  type: Benchmark
+  featured: true
+
+- title: "CrossGaze: A Strong Method for 3D Gaze Estimation in the Wild"
+  authors: "Andy Catruna, Adrian Cosma, Emilian Radoi"
+  venue: "FG 2024"
+  year: 2024
+  type: Conference
+
+- title: "Reading Between the Frames: Multi-Modal Depression Detection in Videos from Non-Verbal Cues"
+  authors: "David Gimeno-Gomez, Ana-Maria Bucur, Adrian Cosma, Carlos-David Martinez-Hinarejos, Paolo Rosso"
+  venue: "ECIR 2024"
+  year: 2024
+  type: Conference
+  github_repo: cosmaadrian/multimodal-depression-from-video
+  featured: true
+
+- title: "GaitPT: Skeletons Are All You Need For Gait Recognition"
+  authors: "Andy Catruna, Adrian Cosma, Emilian Radoi"
+  venue: "FG 2024"
+  year: 2023
+  type: Conference
+  github_repo: AndyCatruna/GaitPT
+
+- title: "PsyMo: A Dataset for Estimating Self-Reported Psychological Traits from Gait"
+  authors: "Adrian Cosma, Emilian Radoi"
+  venue: "WACV 2024"
+  year: 2023
+  type: Dataset paper
+  github_repo: cosmaadrian/psymo
+  featured: true
+
+- title: "GaitFormer: Learning Gait Representations with Noisy Multi-Task Learning"
+  authors: "Adrian Cosma, Emilian Radoi"
+  venue: "arXiv preprint arXiv:2310.19418"
+  year: 2023
+  type: Preprint
+  github_repo: cosmaadrian/gaitformer
+
+- title: "Exploring Self-Supervised Vision Transformers for Gait Recognition in the Wild"
+  authors: "Adrian Cosma, Andy Catruna, Emilian Radoi"
+  venue: "Sensors"
+  year: 2023
+  type: Journal
+  github_repo: cosmaadrian/gait-vit
+
+- title: "It's Just a Matter of Time: Detecting Depression with Time-Enriched Multimodal Transformers"
+  authors: "Ana-Maria Bucur, Adrian Cosma, Paolo Rosso, Liviu P. Dinu"
+  venue: "ECIR 2023"
+  year: 2023
+  type: Conference
+  github_repo: cosmaadrian/time-enriched-multimodal-depression-detection
+  featured: true
+
+- title: "An End-to-End Set Transformer for User-Level Classification of Depression and Gambling Disorder"
+  authors: "Ana-Maria Bucur, Adrian Cosma, Liviu P. Dinu, Paolo Rosso"
+  venue: "eRisk 2022"
+  year: 2022
+  type: Workshop
+
+- title: "Life is not Always Depressing: Exploring the Happy Moments of People Diagnosed with Depression"
+  authors: "Ana-Maria Bucur, Adrian Cosma, Liviu P. Dinu"
+  venue: "LREC 2022"
+  year: 2022
+  type: Conference
+
+- title: "BLUE at Memotion 2.0 2022: You have my Image, my Text and my Transformer"
+  authors: "Ana-Maria Bucur, Adrian Cosma, Ioan-Bogdan Iordache"
+  venue: "Multimodal Fact-Checking and Hate Speech Detection Workshop at AAAI 2022"
+  year: 2022
+  type: Workshop
+
+- title: "From Face to Gait: Weakly-Supervised Learning of Gender Information from Walking Patterns"
+  authors: "Andy Catruna, Adrian Cosma, Ion Emilian Radoi"
+  venue: "IEEE International Conference on Automatic Face and Gesture Recognition 2021"
+  year: 2021
+  type: Conference
+
+- title: "Sequence-to-Sequence Lexical Normalization with Multilingual Transformers"
+  authors: "Ana-Maria Bucur, Adrian Cosma, Liviu P. Dinu"
+  venue: "W-NUT at EMNLP 2021"
+  year: 2021
+  type: Workshop
+
+- title: "Early Risk Detection of Pathological Gambling, Self-Harm and Depression Using BERT"
+  authors: "Ana-Maria Bucur, Adrian Cosma, Liviu P. Dinu"
+  venue: "eRisk 2021"
+  year: 2021
+  type: Workshop
+
+- title: "WildGait: Learning Gait Representations from Raw Surveillance Streams"
+  authors: "Adrian Cosma, Emilian Radoi"
+  venue: "Sensors"
+  year: 2021
+  type: Journal
+  featured: true
+
+- title: "Black-Box Ripper: Copying black-box models using generative evolutionary algorithms"
+  authors: "Antonio Barbalau, Adrian Cosma, Radu Tudor Ionescu, Marius Popescu"
+  venue: "NeurIPS 2020"
+  year: 2020
+  type: Conference
+
+- title: "A Generic and Model-Agnostic Exemplar Synthetization Framework for Explainable AI"
+  authors: "Antonio Barbalau, Adrian Cosma, Radu Tudor Ionescu, Marius Popescu"
+  venue: "ECML-PKDD 2020"
+  year: 2020
+  type: Conference
+
+- title: "Self-supervised Representation Learning on Document Images"
+  authors: "Adrian Cosma, Mihai Ghidoveanu, Michael Panaitescu-Liess, Marius Popescu"
+  venue: "DAS 2020"
+  year: 2020
+  type: Conference
+
+- title: "Camloc: Pedestrian location estimation through body pose estimation on smart cameras"
+  authors: "Adrian Cosma, Ion Emilian Radoi, Valentin Radu"
+  venue: "IPIN 2019"
+  year: 2019
+  type: Conference
