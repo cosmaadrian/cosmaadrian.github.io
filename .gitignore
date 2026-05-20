@@ -5,6 +5,7 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+.tweet-cache
 
 # Icon must end with two \r
 Icon

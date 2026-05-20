@@ -1,14 +1,22 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - cosmaadrian
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - cosmaadrian/romath
+  - cosmaadrian/rocode
+  - cosmaadrian/apo-feature-discovery
+  - andrei-niculae/dr-copilot
+  - cosmaadrian/strawberry-problem
+  - cosmaadrian/nli-stress-test
+  - cosmaadrian/multimodal-depression-from-video
+  - cosmaadrian/time-enriched-multimodal-depression-detection
+  - cosmaadrian/psymo
+  - cosmaadrian/gaitformer
+  - cosmaadrian/gait-vit
+  - AndyCatruna/GaitPT
+  - basocnicoletanina/Database-Agnostic-Gait-Enrollment
+  - cosmaadrian/acumen-compressor
+  - cosmaadrian/acumen-indexer
+  - cosmaadrian/acumen-template
